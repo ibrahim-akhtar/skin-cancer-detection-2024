@@ -25,3 +25,4 @@ This repository contains Jupyter notebooks implementing deep learning models for
 - [Simple 7-Label v2](https://www.kaggle.com/code/iakhtar0/skin-cancer-7-labels-2)
 - [U-Net Segmentation](https://www.kaggle.com/code/iakhtar0/1-skin-cancer-images-segmentation-unet)
 - [Fuzzy U-Net Segmentation](https://www.kaggle.com/code/iakhtar0/2-skin-cancer-images-segmentation-fuzzy-unet)
+- Advanced ones: Not on Kaggle
